@@ -1,3 +1,23 @@
+"""
+
+Assignment 1 and 2 for Geo.Opt
+
+    Inputs:
+        x: int for point grid in x direction
+        y: int for y distance of points
+        U: int U value of mesh
+        V: int V value of mesh
+        
+    Output:
+        a: List of Vectors
+        b: List of Points
+        c: list of angles
+        d: exploded mesh
+        e: Diagonal points on each Mesh
+        f: Move points
+        g: Transformed exploded Mesh
+        """
+
 import Rhino.Geometry as rg
 import ghpythonlib.treehelpers as th
 import math

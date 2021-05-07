@@ -1,3 +1,10 @@
+"""Sun Vectors for Mesh transformation
+
+    Output :
+         c : sunvectors
+         
+"""
+
 import Rhino.Geometry as rg
 import math
 
