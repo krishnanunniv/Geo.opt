@@ -18,6 +18,12 @@ Assignment 1 and 2 for Geo.Opt
         g: Transformed exploded Mesh
         """
 
+#inputs
+x = 10
+y = 3
+U = 10
+V = 10
+
 import Rhino.Geometry as rg
 import ghpythonlib.treehelpers as th
 import math
